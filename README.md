@@ -4,7 +4,7 @@ Este documento explora dos patrones estructurales fundamentales en el diseño de
 
 ---
 
-## 🎯 Intención
+## Intención
 
 ### Decorator
 Permitir agregar funcionalidades adicionales a un objeto de manera dinámica, sin modificar su estructura original.
@@ -14,7 +14,7 @@ Controlar el acceso a un objeto, añadiendo una capa intermedia que puede realiz
 
 ---
 
-## 🧱 Estructura
+## Estructura
 
 ### Decorator
 - Usa una interfaz común entre el objeto base y los decoradores.
@@ -26,7 +26,7 @@ Controlar el acceso a un objeto, añadiendo una capa intermedia que puede realiz
 
 ---
 
-## 🌍 Ejemplo del mundo real
+## Ejemplo del mundo real
 
 ### Decorator
 **Café con complementos.** Puedes pedir un café básico, y luego agregarle leche, azúcar, crema, etc., sin cambiar la clase original de café.
