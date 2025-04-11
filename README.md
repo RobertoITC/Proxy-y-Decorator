@@ -1,8 +1,5 @@
 # Patrones de Diseño: Decorator vs Proxy
 
-Este documento explora dos patrones estructurales fundamentales en el diseño de software orientado a objetos: **Decorator** y **Proxy**. Se analizan su intención, estructura, ejemplos del mundo real, ejemplos de código, diferencias clave y escenarios de uso.
-
----
 
 ## Intención
 
